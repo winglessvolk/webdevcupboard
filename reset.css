@@ -1,0 +1,30 @@
+/* header */
+
+header{
+	position: relative;
+}
+
+.menu-setores{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.menu-setores ul li{
+	display: inline;
+	margin-left: 20px;
+}
+
+.sacola{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.container{
+	margin: 0 auto;
+	width: 940px;
+}
+
+
+/* header */
